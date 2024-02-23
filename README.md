@@ -1,3 +1,6 @@
+# Distributed Java drawing game with RabbitMQ and ngrok 
+read ppt file from above to understand the idea of a project.
+
 install and configure RabbitMQ as a service
 install ngrock
 
