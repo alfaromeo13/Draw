@@ -6,7 +6,7 @@ install ngrock
 
 open ngrock and type the following: 
 ngrok start --all --region eu   (this will use the following yml configuration file in the background)
-```ruby
+```yml
 version: "2"
 authtoken: 1pkgmYykxTpPLnhZoS6ufSGFIwe_cNzNqjfSFLX5mYmZkT7A
 tunnels:
