@@ -17,7 +17,7 @@ tunnels:
     addr: localhost:5672
     proto: tcp
 ```
-after this copy the output parameters inside CNF JoinRoom classes  
+after running the command copy the output parameters from the terminal inside CNF and JoinRoom classes  
 
 run the app from eclipse and enjoy :)
 
