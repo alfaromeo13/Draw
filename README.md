@@ -2,10 +2,13 @@
 read ppt file from above to understand the idea of a project.
 
 install and configure RabbitMQ as a service
+
 install ngrock
 
 open ngrock and type the following: 
+```
 ngrok start --all --region eu   (this will use the following yml configuration file in the background)
+```
 ```yml
 version: "2"
 authtoken: 1pkgmYykxTpPLnhZoS6ufSGFIwe_cNzNqjfSFLX5mYmZkT7A
@@ -19,5 +22,5 @@ tunnels:
 ```
 after running the command copy the output parameters from the terminal inside CNF and JoinRoom classes  
 
-run the app from eclipse and enjoy :)
+run the app from eclipse IDE.
 
