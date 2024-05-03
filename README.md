@@ -47,7 +47,7 @@ tunnels:
 ngrok start --all --region eu
 ```
 
-This command utilizes the YAML configuration provided above in the background. By employing the --region flag, you can select the datacenter nearest to your location. If you are for example from Germany, 
+This command uses the yml configuration from above in the background. By employing the --region flag, you can select the datacenter nearest to your location. If you are for example from Germany, 
 you should be using the EU region to minimize any latency. This setup facilitates hosting the application using ngrok, enabling the simulation of real-time functionality. For a comprehensive list of available regions suitable for tunneling, refer to <a href="https://ngrok.com/docs/network-edge/#points-of-presence">this link</a>.
 
 - after running the command copy the output parameters from the terminal inside CNF and JoinRoom classes  
