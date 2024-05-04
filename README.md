@@ -52,4 +52,4 @@ you should be using the EU region to minimize any latency. This setup facilitate
 
 - after running the command copy the output parameters from the terminal inside CNF and JoinRoom classes  
 
-- run the program from eclipse IDE and start creating rooms, drawing, guessing, and earning points 🎨✨
+- run the program from eclipse IDE and start creating rooms, drawing, guessing, and earning points </br> 🎨✨
